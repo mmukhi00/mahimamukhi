@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahima Mukhi</h1>
 <h3 align="center">An Enthusiastic Full Stack Developer</h3>
-<img align="right" width="200" alt="coding" style= "borderRadius:20"src="https://github.com/mmukhi00/mahimamukhi/assets/116036967/6a0894c4-86b0-4069-a81e-f50d83ba4928"/>
+<img align="right" width="200" alt="coding" style= 'border-radius:20' src="https://github.com/mmukhi00/mahimamukhi/assets/116036967/6a0894c4-86b0-4069-a81e-f50d83ba4928"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmukhi00&label=Profile%20views&color=0e75b6&style=flat" alt="mmukhi00" /> </p>
 
