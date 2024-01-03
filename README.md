@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **ChatApp**
 
-- 🌱 I’m currently learning **React, Next.js, Three.js, Pyhton**
+- 🌱 I’m currently learning **React, Next.js, Three.js, Python**
 
 - 🤝 I’m looking for help with [RentO](https://github.com/madhuneupane/RentO)
 
