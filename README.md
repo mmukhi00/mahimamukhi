@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahima Mukhi</h1>
 <h3 align="center">An Enthusiastic Full Stack Developer</h3>
+<img align="right" alt="coding" src=""/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmukhi00&label=Profile%20views&color=0e75b6&style=flat" alt="mmukhi00" /> </p>
 
