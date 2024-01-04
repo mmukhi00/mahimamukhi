@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on[ChatApp](https://github.com/mmukhi00/ChatApp)
+- 🔭 I’m currently working on [ChatApp](https://github.com/mmukhi00/ChatApp)
 
 - 🌱 I’m currently learning **React, Next.js, Three.js, Python**
 
